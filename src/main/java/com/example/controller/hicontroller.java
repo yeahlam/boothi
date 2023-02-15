@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class hicontroller {
     @GetMapping("/")
     public String sayhi(){
-        return "hihihihihihihihih";
+        return "林晓彤我在学习";
     }
 }
